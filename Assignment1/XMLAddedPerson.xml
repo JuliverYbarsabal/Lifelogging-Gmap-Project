@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://www.w3.org/2001/12/soap-envelope" SOAP-ENV:encodingStyle="http://www.w3.org/2001/12/soap-encoding">
+  <SOAP-ENV:Body xmlns:lle="http://www.xyz.org/lifelogevents">
+    <lle:Person>
+      <lle:firstname>Juliver</lle:firstname>
+      <lle:lastname>Ybarsabal</lle:lastname>
+      <lle:Information>
+        <lle:Contactdetails>juliverYbarsabal@yahoo.com</lle:Contactdetails>
+        <lle:streetNum>90 south street</lle:streetNum>
+        <lle:StreetAdd>Murdoch University Village</lle:StreetAdd>
+        <lle:lat>-32.0681015516696</lle:lat>
+        <lle:long>115.83083152770996</lle:long>
+      </lle:Information>
+    </lle:Person>
+    <lle:Person>
+      <lle:firstname>Eva-Rose </lle:firstname>
+      <lle:lastname>Farrow</lle:lastname>
+      <lle:Information>
+        <lle:Contactdetails>0467868868</lle:Contactdetails>
+        <lle:streetNum>38</lle:streetNum>
+        <lle:StreetAdd>GreenValie</lle:StreetAdd>
+        <lle:lat>-31.960249131765058</lle:lat>
+        <lle:long>115.8923095703125</lle:long>
+      </lle:Information>
+    </lle:Person>
+    <lle:Person>
+      <lle:firstname>Archie</lle:firstname>
+      <lle:lastname> Gonzales</lle:lastname>
+      <lle:Information>
+        <lle:Contactdetails> Gonzales@gmail.com</lle:Contactdetails>
+        <lle:streetNum>43</lle:streetNum>
+        <lle:StreetAdd>forrests streetr</lle:StreetAdd>
+        <lle:lat>-31.993518375535047</lle:lat>
+        <lle:long>115.92498779296875</lle:long>
+      </lle:Information>
+    </lle:Person>
+    <lle:Person>
+      <lle:firstname>Marlene </lle:firstname>
+      <lle:lastname>Cameron</lle:lastname>
+      <lle:Information>
+        <lle:Contactdetails>Marlene</lle:Contactdetails>
+        <lle:streetNum>78</lle:streetNum>
+        <lle:StreetAdd>seaside st</lle:StreetAdd>
+        <lle:lat>-31.957405596502667</lle:lat>
+        <lle:long>115.75469970703125</lle:long>
+      </lle:Information>
+    </lle:Person>
+    <lle:Person>
+      <lle:firstname>Jerome</lle:firstname>
+      <lle:lastname> Simmonds</lle:lastname>
+      <lle:Information>
+        <lle:Contactdetails>0467898898</lle:Contactdetails>
+        <lle:streetNum>56</lle:streetNum>
+        <lle:StreetAdd>Summervallie</lle:StreetAdd>
+        <lle:lat>-31.860063442571118</lle:lat>
+        <lle:long>115.82679748535156</lle:long>
+      </lle:Information>
+    </lle:Person>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

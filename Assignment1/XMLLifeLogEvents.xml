@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://www.w3.org/2001/12/soap-envelope" SOAP-ENV:encodingStyle="http://www.w3.org/2001/12/soap-encoding">
+  <SOAP-ENV:Body xmlns:lle="http://www.xyz.org/lifelogevents">
+    <lle:Event>
+      <lle:eventid>ID01</lle:eventid>
+      <lle:tweet>
+        <lle:text>A kangaroo is really just a rabbit on steroids.</lle:text>
+        <lle:location>
+          <lle:lat>-32.040676557717447</lle:lat>
+          <lle:long>116.04789733886719</lle:long>
+        </lle:location>
+        <lle:datetimestamp>13/09/2021 3:00PM</lle:datetimestamp>
+      </lle:tweet>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>ID02</lle:eventid>
+      <lle:instagram-status>
+        <lle:text>Just got myself a new haircut</lle:text>
+        <lle:location>
+          <lle:lat>-32.022049064952043</lle:lat>
+          <lle:long>115.93803405761719</lle:long>
+        </lle:location>
+        <lle:datetimestamp>13/09/2021 5:00PM</lle:datetimestamp>
+      </lle:instagram-status>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>ID03</lle:eventid>
+      <lle:photo>
+        <lle:filepath>img/photos/basketball.jpg</lle:filepath>
+        <lle:location>
+          <lle:lat>-32.008123357368043</lle:lat>
+          <lle:long>115.87012976074219</lle:long>
+        </lle:location>
+      </lle:photo>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>ID04</lle:eventid>
+      <lle:video>
+        <lle:filepath>img//videos/kingPark.mp4</lle:filepath>
+        <lle:location>
+          <lle:lat>-31.961483557268551</lle:lat>
+          <lle:long>115.828857421875</lle:long>
+        </lle:location>
+      </lle:video>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>ID05</lle:eventid>
+      <lle:tweet>
+        <lle:text>He turned in the research paper on Friday</lle:text>
+        <lle:location>
+          <lle:lat>-32.060755078261849</lle:lat>
+          <lle:long>115.83469390869141</lle:long>
+        </lle:location>
+        <lle:datetimestamp>13/09/2021 1:00PM</lle:datetimestamp>
+      </lle:tweet>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>ID06</lle:eventid>
+      <lle:instagram-status>
+        <lle:text>On my way to Rocknest Island</lle:text>
+        <lle:location>
+          <lle:lat>-32.064062727578213</lle:lat>
+          <lle:long>115.75057983398438</lle:long>
+        </lle:location>
+        <lle:datetimestamp>14/09/2021 11:00AM</lle:datetimestamp>
+      </lle:instagram-status>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>ID07</lle:eventid>
+      <lle:photo>
+        <lle:filepath>img/photo/perthZoo.jpg</lle:filepath>
+        <lle:location>
+          <lle:lat>-31.975208933754473</lle:lat>
+          <lle:long>115.85203170776367</lle:long>
+        </lle:location>
+      </lle:photo>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>ID08</lle:eventid>
+      <lle:video>
+        <lle:filepath>img/videos/beach.mp4</lle:filepath>
+        <lle:location>
+          <lle:lat>-31.877557643340012</lle:lat>
+          <lle:long>115.75263977050781</lle:long>
+        </lle:location>
+      </lle:video>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>ID09</lle:eventid>
+      <lle:tracklog>
+        <lle:filepath>sailing.gpx</lle:filepath>
+        <lle:location>
+          <lle:lat>-32.054062727578213</lle:lat>
+          <lle:long>115.75057983398438</lle:long>
+          <lle:lat2>-32.0064835572686</lle:lat2>
+          <lle:longi2>115.54985742187</lle:longi2>
+        </lle:location>
+      </lle:tracklog>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>ID10</lle:eventid>
+      <lle:video>
+        <lle:filepath>img/videos/salmonBeach.mp4</lle:filepath>
+        <lle:location>
+          <lle:lat>-32.009240466138067</lle:lat>
+          <lle:long>115.54539270019531</lle:long>
+        </lle:location>
+      </lle:video>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>ID11</lle:eventid>
+      <lle:tweet>
+        <lle:text>Dont go near Barking dogs</lle:text>
+        <lle:location>
+          <lle:lat>-31.895631494937888</lle:lat>
+          <lle:long>115.83503723144531</lle:long>
+        </lle:location>
+        <lle:datetimestamp>15/09/2021</lle:datetimestamp>
+      </lle:tweet>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>ID12</lle:eventid>
+      <lle:instagram-status>
+        <lle:text>Picking up my cousin in the airport</lle:text>
+        <lle:location>
+          <lle:lat>-31.944587969619008</lle:lat>
+          <lle:long>115.96893310546875</lle:long>
+        </lle:location>
+        <lle:datetimestamp>14/09/2021 6:00PM</lle:datetimestamp>
+      </lle:instagram-status>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>ID13</lle:eventid>
+      <lle:photo>
+        <lle:filepath>img/photos/coffeeShop.jpg</lle:filepath>
+        <lle:location>
+          <lle:lat>-31.89504852283288</lle:lat>
+          <lle:long>115.89950830078125</lle:long>
+        </lle:location>
+      </lle:photo>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>ID14</lle:eventid>
+      <lle:tracklog>
+        <lle:filepath>distance.gpx</lle:filepath>
+        <lle:location>
+          <lle:lat>-31.961483557268551</lle:lat>
+          <lle:long>115.838857421875</lle:long>
+          <lle:lat2>-31.89404852283288</lle:lat2>
+          <lle:longi2>115.90350830078125</lle:longi2>
+        </lle:location>
+      </lle:tracklog>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>ID15</lle:eventid>
+      <lle:tweet>
+        <lle:text>The weather is nice today</lle:text>
+        <lle:location>
+          <lle:lat>-31.933516761903675</lle:lat>
+          <lle:long>115.75469970703125</lle:long>
+        </lle:location>
+        <lle:datetimestamp>15/09/2021 8:00AM</lle:datetimestamp>
+      </lle:tweet>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>ID16</lle:eventid>
+      <lle:instagram-status>
+        <lle:text>No traffic today feeling happy</lle:text>
+        <lle:location>
+          <lle:lat>-32.030199059236594</lle:lat>
+          <lle:long>115.81787109375</lle:long>
+        </lle:location>
+        <lle:datetimestamp>16/09/2021 12:00PM</lle:datetimestamp>
+      </lle:instagram-status>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>ID17</lle:eventid>
+      <lle:tweet>
+        <lle:text>If I don’t like something, I’ll stay away from it.</lle:text>
+        <lle:location>
+          <lle:lat>-31.888052569652842</lle:lat>
+          <lle:long>116.01493835449219</lle:long>
+        </lle:location>
+        <lle:datetimestamp>16/09/2021 3:00PM</lle:datetimestamp>
+      </lle:tweet>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>ID18</lle:eventid>
+      <lle:instagram-status>
+        <lle:text>Just living life and exploring</lle:text>
+        <lle:location>
+          <lle:lat>-31.977211138105716</lle:lat>
+          <lle:long>116.08154296875</lle:long>
+        </lle:location>
+        <lle:datetimestamp>17/09/2021 8:00AM</lle:datetimestamp>
+      </lle:instagram-status>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>ID19</lle:eventid>
+      <lle:photo>
+        <lle:filepath>img/photos/beach.jpg</lle:filepath>
+        <lle:location>
+          <lle:lat>-31.991771310172098</lle:lat>
+          <lle:long>115.74920654296875</lle:long>
+        </lle:location>
+      </lle:photo>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>ID20</lle:eventid>
+      <lle:video>
+        <lle:filepath>img/videos/driving.mp4</lle:filepath>
+        <lle:location>
+          <lle:lat>-32.037184191435145</lle:lat>
+          <lle:long>115.87898254394531</lle:long>
+        </lle:location>
+      </lle:video>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>ID21</lle:eventid>
+      <lle:tweet>
+        <lle:text>visited my aunts </lle:text>
+        <lle:location>
+          <lle:lat>-32.087228708296635</lle:lat>
+          <lle:long>115.88035583496094</lle:long>
+        </lle:location>
+        <lle:datetimestamp>17/09/2021 1:00PM</lle:datetimestamp>
+      </lle:tweet>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>ID22</lle:eventid>
+      <lle:instagram-status>
+        <lle:text>feeling excited</lle:text>
+        <lle:location>
+          <lle:lat>-31.931768554571292</lle:lat>
+          <lle:long>115.83503723144531</lle:long>
+        </lle:location>
+        <lle:datetimestamp>17/09/2021 10:00PM</lle:datetimestamp>
+      </lle:instagram-status>
+    </lle:Event>
+	  <lle:Event>
+		  <lle:eventid>ID23</lle:eventid>
+		  <lle:tracklog>
+			  <lle:filepath>BeachDay.gpx</lle:filepath>
+			  <lle:location>
+				  <lle:lat>-32.0681015516696</lle:lat>
+				  <lle:long>115.83083152770996</lle:long>
+				  <lle:lat2>-31.993771310172098</lle:lat2>
+				  <lle:longi2>115.75120654296875</lle:longi2>
+			  </lle:location>
+		  </lle:tracklog>
+	  </lle:Event>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
